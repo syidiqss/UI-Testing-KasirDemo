@@ -1,4 +1,4 @@
-# QA AUTOMATION
+# UI TESTING
 
 How to install 
 
